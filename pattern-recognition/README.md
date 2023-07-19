@@ -15,7 +15,7 @@ Given a certain set of feature points, the elaborated algorithm is able to deter
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/tuo-username/nome-progetto.git
+   git clone https://github.com/MattiaMorelli/pattern_recognition.git
 
 2. Go to the project directory
 
