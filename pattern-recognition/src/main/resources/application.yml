@@ -1,0 +1,23 @@
+# Server
+server:
+  port: 8080
+
+# Database
+spring:
+  datasource:
+    url: jdbc:h2:~/pattern_recognition
+    driver-class-name: org.h2.Driver
+    username: sa
+    password: sa
+  jpa:
+    hibernate:
+      ddl-auto: create
+    database-platform: org.hibernate.dialect.H2Dialect
+  h2:
+    console:
+      enabled: true
+
+# Logging
+logging:
+  level:
+    root: INFO
