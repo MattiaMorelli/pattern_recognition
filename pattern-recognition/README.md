@@ -5,7 +5,7 @@ Given a certain set of feature points, the elaborated algorithm is able to deter
 
 ## Requirements
 
-- Java JDK 8 or later versions
+- Java JDK 17
 - Apache Maven
 - No Database installation is needed since the application uses an H2 in-memory database
 
